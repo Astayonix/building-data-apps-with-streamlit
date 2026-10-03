@@ -1,0 +1,6 @@
+/venv
+/"Chapter 01"/__pycache__
+/"Chapter 01"/flagged
+*.pyc
+*.*ds_store
+*.*ini
