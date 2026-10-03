@@ -23,4 +23,4 @@ def update_output(name):
 
 # Run the app
 if __name__ == "__main__":
-    app.run_server()
+    app.run()

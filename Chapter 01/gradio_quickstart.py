@@ -5,5 +5,5 @@ def greet(name):
     return f"Hello, {name}!"
 
 
-iface = gr.Interface(fn=greet, inputs="text", outputs="text")
-iface.launch()
+demo = gr.Interface(fn=greet, inputs="text", outputs="text")
+demo.launch()
